@@ -1,4 +1,10 @@
+# Features implemented
+1) Random user data using API 
+2) skeletons for smooth transition while loading data
+3) Responsive UI
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
